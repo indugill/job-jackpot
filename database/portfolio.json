@@ -1,0 +1,127 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Maya ",
+    "contactNumber": "9876543210",
+    "email": "maya@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "Maya_CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Maya.",
+    "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
+    "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
+  },
+  "skillsInfo": {
+    "displayName": "Tools",
+    "skills": [
+      {
+        "name": "TypeScript",
+        "rating": 8.5
+      },
+      {
+        "name": "JavaScript",
+        "rating": 10
+      },
+      {
+        "name": "NextJS",
+        "rating": 8.5
+      },
+      {
+        "name": "Tailwind CSS",
+        "rating": 7.5
+      },
+      {
+        "name": "Material UI",
+        "rating": 8
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "MongoDB",
+        "rating": 8.5
+      },
+      {
+        "name": "Angular",
+        "rating": 8.5
+      }
+    ],
+    "showMovingSkills": true
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jan'23 – Present",
+        "projectName": "AWS Cloud Dashboard",
+        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
+        "headline2": "Implemented CI/CD pipelines for automated deployments.",
+        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "fs2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
+          }
+        ]
+      },
+      {
+        "timeline": "Jul'19 – Dec'22",
+        "projectName": " E-commerce Web Platform",
+        "headline1": "Built and optimized a high-traffic e-commerce platform.",
+        "headline2": "Developed a microservices architecture for scalability.",
+        "designation": "Software Engineer (Full Stack Developer)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
+        "companyName": "Infosys",
+        "images": [
+          {
+            "fileName": "fs1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
+          }
+        ],
+        "rank": "2"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2015-2019",
+        "courseName": " Bachelor of Technology (B.Tech)",
+        "instituteName": "Indian Institute of Technology (IIT) Bombay",
+        "specializedIn": "Computer Science",
+        "yearPassout": "2019",
+        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
+        "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
