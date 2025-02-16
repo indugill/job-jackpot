@@ -77,7 +77,7 @@
         "headline2": "Designed 90-minute & Self-paced materials (short videos & quizzes) using Canva & Articulate 360 and hosted in LMS.",
         "designation": "Associate Process Manager",
         "link": {
-          "linkText": "Website",
+          "linkText": "website",
           "linkUrl": "https://www.broadridge.com/"
         },
         "skills": "Workday, Cornerstone, Instructional Design, Articulate 360, Storyline 360, Rise 360, Canva, ElevenLabs",
@@ -96,7 +96,7 @@
         "headline2": "Worked as an HR & learning enablement professional with comprehensive experience in HR operation, training and development, talent acquisition and account management.",
         "designation": "Learning Consultant",
         "link": {
-          "linkText": "Link",
+          "linkText": "website",
           "linkUrl": "https://originui.com/badge"
         },
         "skills": "SuccessMap learning (SAP), MS Office, MS Powerpoint, MS Excel",
@@ -116,7 +116,7 @@
         "headline2": "Conduct post offer follow up with offered candidates and provide any clarity they need before joining.",
         "designation": "Learning Consultant",
         "link": {
-          "linkText": "Website",
+          "linkText": "website",
           "linkUrl": "https://www.accenture.com/in-en"
         },
         "skills": "MS Office, MS Powerpoint, MS Excel",
@@ -134,17 +134,17 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2015-2019",
-        "courseName": " Bachelor of Technology (B.Tech)",
-        "instituteName": "Indian Institute of Technology (IIT) Bombay",
-        "specializedIn": "Computer Science",
-        "yearPassout": "2019",
-        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
-        "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
-        "cgpa": "9.2",
+        "timeline": "2009-2011",
+        "courseName": "Master of Business Administration",
+        "instituteName": "Uttarakhand Technical University, Dehradun, Uttarakhand",
+        "specializedIn": "Human Resource, Marketing",
+        "yearPassout": "2011",
+        "headline1": "Analysed ONGC’s recruitment and promotion policies using surveys and data visualization. Developed recommendations for improving training and development programs.",
+        "headline2": "Conducted comparative analysis of training methods in the banking sector.  Assessed the effectiveness of training programs and proposed enhancements.",
+        "cgpa": "",
         "link": {
           "linkText": "Degree",
-          "linkUrl": "https://github.com/"
+          "linkUrl": "https://www.uudoon.in/?utm_source=collegedunia&utm_medium=kamp21&utm_campaign=online"
         },
         "images": [],
         "rank": "3"
