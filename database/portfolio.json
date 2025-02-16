@@ -37,10 +37,6 @@
         "rating": 8.5
       },
       {
-        "name": "Articulate 360 (Storyline 360 & Rise 360)",
-        "rating": 8.5
-      },
-      {
         "name": "Canva",
         "rating": 8.5
       },
@@ -54,6 +50,18 @@
       },
       {
         "name": "Advanced Powerpoint",
+        "rating": 8.5
+      },
+      {
+        "name": "Articulate 360",
+        "rating": 8.5
+      },
+      {
+        "name": "Storyline 360",
+        "rating": 8.5
+      },
+      {
+        "name": "Rise 360",
         "rating": 8.5
       }
     ],
