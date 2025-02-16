@@ -71,52 +71,40 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jan'23 – Present",
-        "projectName": "AWS Cloud Dashboard",
-        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
-        "headline2": "Implemented CI/CD pipelines for automated deployments.",
-        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "timeline": "Dec'16 – Present",
+        "projectName": "",
+        "headline1": "Led employee engagement initiatives and organization-wide activities. Played a key role in the global Leadership Development team to design, deploy, and measure scalable learning solutions",
+        "headline2": "Designed 90-minute & Self-paced materials (short videos & quizzes) using Canva & Articulate 360 and hosted in LMS.",
+        "designation": "Associate Process Manager",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "Website",
+          "linkUrl": "https://www.broadridge.com/"
         },
-        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
-        "companyName": "Amazon",
+        "skills": "Workday, Cornerstone, Instructional Design, Articulate 360, Storyline 360, Rise 360, Canva, ElevenLabs",
+        "companyName": "Broadridge",
         "images": [
           {
-            "fileName": "fs2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
-          },
-          {
-            "fileName": "fs3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
+            "fileName": "Broadridge.png",
+            "fileUrl": "https://raw.githubusercontent.com/indugill/job-jackpot/master/images/Broadridge.png"
           }
         ]
       },
       {
-        "timeline": "Jul'19 – Dec'22",
+        "timeline": "Apr'16-Dec'16",
         "projectName": " E-commerce Web Platform",
-        "headline1": "Built and optimized a high-traffic e-commerce platform.",
-        "headline2": "Developed a microservices architecture for scalability.",
-        "designation": "Software Engineer (Full Stack Developer)",
+        "headline1": "Designed and implemented training programs to enhance employee development. Coordinated new hire induction, onboarding, and training logistics.",
+        "headline2": "Worked as an HR & learning enablement professional with comprehensive experience in HR operation, training and development, talent acquisition and account management.",
+        "designation": "Learning Consultant",
         "link": {
           "linkText": "Link",
           "linkUrl": "https://originui.com/badge"
         },
-        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
-        "companyName": "Infosys",
+        "skills": "SuccessMap learning (SAP), MS Office, MS Powerpoint, MS Excel",
+        "companyName": "SAP India Pvt. Limited",
         "images": [
           {
-            "fileName": "fs1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
-          },
-          {
-            "fileName": "fs4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
-          },
-          {
-            "fileName": "fs5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
+            "fileName": "SAP.png",
+            "fileUrl": "https://raw.githubusercontent.com/indugill/job-jackpot/master/images/SAP.png"
           }
         ],
         "rank": "2"
