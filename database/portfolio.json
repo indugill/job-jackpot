@@ -22,38 +22,38 @@
     "description": "Dedicated Learning & Development Partner, Associate Process Manager with expertise in designing and implementing training programs. Skilled in process optimization, employee engagement, and performance enhancement. Passionate about fostering growth through strategic learning initiatives."
   },
   "skillsInfo": {
-    "displayName": "Tools",
+    "displayName": "Skills",
     "skills": [
       {
-        "name": "TypeScript",
+        "name": "Workday",
         "rating": 8.5
       },
       {
-        "name": "JavaScript",
-        "rating": 10
-      },
-      {
-        "name": "NextJS",
+        "name": "Cornerstone",
         "rating": 8.5
       },
       {
-        "name": "Tailwind CSS",
-        "rating": 7.5
-      },
-      {
-        "name": "Material UI",
-        "rating": 8
-      },
-      {
-        "name": "ReactJS",
+        "name": "SuccessMap learning (SAP)",
         "rating": 8.5
       },
       {
-        "name": "MongoDB",
+        "name": "Articulate 360 (Storyline 360 & Rise 360)",
         "rating": 8.5
       },
       {
-        "name": "Angular",
+        "name": "Canva",
+        "rating": 8.5
+      },
+      {
+        "name": "Eleven labs",
+        "rating": 8.5
+      },
+      {
+        "name": "Advanced Excel ",
+        "rating": 8.5
+      },
+      {
+        "name": "Advanced Powerpoint",
         "rating": 8.5
       }
     ],
