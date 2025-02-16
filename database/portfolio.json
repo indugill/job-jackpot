@@ -78,6 +78,10 @@
           {
             "fileName": "fs2.png",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
+          },
+          {
+            "fileName": "fs3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
           }
         ]
       },
@@ -97,6 +101,14 @@
           {
             "fileName": "fs1.png",
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
+          },
+          {
+            "fileName": "fs4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
+          },
+          {
+            "fileName": "fs5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
           }
         ],
         "rank": "2"
